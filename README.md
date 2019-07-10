@@ -1,3 +1,3 @@
-# YASDI
+# ClibYASDI
 
-A description of this package.
+Portable YASDI library.
